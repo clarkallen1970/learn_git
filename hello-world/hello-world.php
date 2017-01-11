@@ -6,6 +6,8 @@
 
 echo 'Hello world from Cloud9!';
 
+echo 'This is an enhancement of the hello world message';
+
 ?>
 </body>
 </html>
